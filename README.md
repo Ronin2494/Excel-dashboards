@@ -1,4 +1,4 @@
-This report is created using SSMS(S@QL SERVER MANAGEMENT STUDIO). 
+This report is created using SSMS(SQL SERVER MANAGEMENT STUDIO). 
 
 First, some data is inserted into a SQL Database. 
 
